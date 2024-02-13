@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "ItemsInOrder": {
+      "1": {
+        "ItemSerial": 1,
+        "Category": "Men",
+        "ItemName": "M Shirt DW",
+        "ItemNamePk": "cbdb0f8b-eea0-4ffa-b093-d1dcbfcad2c0",
+        "WashType": "DryWash",
+        "WashTypePk": "cbdb0f8b-eea0-4ffa-b093-d1dcbfcad2c0",
+        "locationPk": "Vizag",
+        "location": "Vizag",
+        "Pcs": 1,
+        "Rate": 60,
+        "DisPer": 0,
+        "AddOn": "0-0",
+        "DeliveryDateTime": "2024-02-20T19:58:50",
+        "Total": 60
+      }
+    },
+    "CustomerData": {
+      "CustomerName": "Keshav",
+      "CustomerMobile": "9848163021"
+    },
+    "OrderData": {
+      "BranchName": "Kakinada",
+      "Currentdateandtime": "2024-02-13T19:58:50"
+    },
+    "AddOnData": {},
+    "CheckOutData": {},
+    "UuId": "965a1144-268b-4de9-bcec-1052e9808e35",
+    "DateTime": "2024-02-13T14:29:07.897Z"
+  },
+  {
+    "ItemsInOrder": {
+      "1": {
+        "ItemSerial": 1,
+        "Category": "Men",
+        "ItemName": "M Shirt DW",
+        "ItemNamePk": "cbdb0f8b-eea0-4ffa-b093-d1dcbfcad2c0",
+        "WashType": "DryWash",
+        "WashTypePk": "cbdb0f8b-eea0-4ffa-b093-d1dcbfcad2c0",
+        "locationPk": "Vizag",
+        "location": "Vizag",
+        "Pcs": 1,
+        "Rate": 60,
+        "DisPer": 0,
+        "AddOn": "0-0",
+        "DeliveryDateTime": "2024-02-20T19:59:16",
+        "Total": 60
+      }
+    },
+    "CustomerData": {
+      "CustomerName": "Keshav",
+      "CustomerMobile": "9848163021"
+    },
+    "OrderData": {
+      "BranchName": "Kakinada",
+      "Currentdateandtime": "2024-02-13T19:59:16"
+    },
+    "AddOnData": {},
+    "CheckOutData": {},
+    "UuId": "387a0fad-c87b-4d23-908f-6c346f63a863",
+    "DateTime": "2024-02-13T14:29:23.629Z"
+  }
+]

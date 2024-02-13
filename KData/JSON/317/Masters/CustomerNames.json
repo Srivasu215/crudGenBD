@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "CustomerName": "SREENIVAS",
+    "Mobile": "8341177771",
+    "City": "KKD",
+    "UuId": "28d06ac2-7088-42d9-af5d-937ec6f00be6",
+    "DateTime": "2024-02-13T07:21:32.325Z"
+  },
+  {
+    "CustomerName": "KESHAV",
+    "Mobile": "9848022338",
+    "City": "KKD",
+    "UuId": "59e2235c-b8ad-4d31-9eb1-14cb3772465c",
+    "DateTime": "2024-02-13T07:21:49.536Z"
+  },
+  {
+    "CustomerName": "RAM",
+    "Mobile": "99999",
+    "City": "KKD",
+    "UuId": "5166d224-270b-4fdd-89e9-9c60a8c5d6ad",
+    "DateTime": "2024-02-13T07:22:02.734Z"
+  },
+  {
+    "CustomerName": "RAM",
+    "Mobile": "99999",
+    "City": "KKD",
+    "UuId": "a76cab22-9028-4fab-8224-696ee6513c7a",
+    "DateTime": "2024-02-13T07:22:09.341Z"
+  }
+]
